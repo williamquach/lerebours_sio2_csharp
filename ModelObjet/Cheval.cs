@@ -6,5 +6,6 @@ namespace ModelObjet
     {
         public int IdCheval { get; set; }
         public string NomCheval { get; set; }
+        public string RaceCheval { get; set }
     }
 }
